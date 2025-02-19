@@ -1,4 +1,4 @@
-# Machine Learning: Training & Test Sets (Easy Explanation)
+# Machine Learning: Training & Test Sets
 
 ## 1. Why Do We Split Data?
 - Machine learning models need to perform well on new data.
